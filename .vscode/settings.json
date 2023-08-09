@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.C": "c",
+        "TUT1.C": "cpp",
+        "stdio.h": "c",
+        "math.h": "c",
+        "stdlib.h": "c",
+        "INDEX.C": "cpp",
+        "MAIN.C": "cpp",
+        "string.h": "c",
+        "temp.c": "cpp"
+    }
+}
