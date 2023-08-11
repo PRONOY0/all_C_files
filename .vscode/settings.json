@@ -8,6 +8,18 @@
         "INDEX.C": "cpp",
         "MAIN.C": "cpp",
         "string.h": "c",
-        "temp.c": "cpp"
+        "temp.c": "cpp",
+        "cmath": "cpp",
+        "cstdarg": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "exception": "cpp",
+        "type_traits": "cpp",
+        "limits": "cpp",
+        "*.tcc": "cpp",
+        "typeinfo": "cpp"
     }
 }

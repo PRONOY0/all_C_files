@@ -1,0 +1,5 @@
+MY NAME IS PRONOY ROY
+
+"THIS IS LINE NUMBER ONE AND IT'S BEING USED FOR THE UNDERSTANDING PURPOSE FOR W+."  is changed to 
+"MY NAME IS PRONOY ROY" 
+it just deleted all the previous line.
